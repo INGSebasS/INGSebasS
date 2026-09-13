@@ -4,7 +4,7 @@
 [![Especialidad](https://img.shields.io/badge/Enfoque-Backend%20%7C%20Ciberseguridad%20%7C%20Redes%20%7C%20Data-10b981)](https://github.com/INGSebasS)
 [![Proyectos Privados](https://img.shields.io/badge/Consultoría%20Empresarial-Bajo%20NDA-orange)](https://github.com/INGSebasS)
 
-Ingeniero de Sistemas y desarrollador de software con sede en **Ipiales, Nariño, Colombia**. Experiencia en diseño y despliegue de arquitecturas backend de alto rendimiento, aseguramiento de infraestructura de red perimetral, ingeniería de datos y automatización de procesos empresariales en entornos de producción.
+Ingeniero de Sistemas y desarrollador de software ** Colombia**. Experiencia en diseño y despliegue de arquitecturas backend de alto rendimiento, aseguramiento de infraestructura de red perimetral, ingeniería de datos y automatización de procesos empresariales en entornos de producción.
 
 ---
 
